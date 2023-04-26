@@ -1,0 +1,52 @@
+Income,State,Region
+80958,Connecticut,Northeast
+71139,Maine,Northeast
+86566,Massachusetts,Northeast
+88841,New Hampshire,Northeast
+74982,Rhode Island,Northeast
+76079,Vermont,Northeast
+88559,New Jersey,Northeast
+72920,New York,Northeast
+72627,Pennsylvania,Northeast
+79253,Illinois,Midwest
+70190,Indiana,Midwest
+64488,Michigan,Midwest
+62689,Ohio,Midwest
+69943,Wisconsin,Midwest
+72429,Iowa,Midwest
+75979,Kansas,Midwest
+80441,Minnesota,Midwest
+63594,Missouri,Midwest
+78109,Nebraska,Midwest
+68882,North Dakota,Midwest
+73893,South Dakota,Midwest
+68687,Delaware,South
+59734,Florida,South
+61497,Georgia,South
+97332,Maryland,South
+62891,North Carolina,South
+62542,South Carolina,South
+80268,Virginia,South
+46836,West Virginia,South
+56929,Alabama,South
+55629,Kentucky,South
+46637,Mississippi,South
+62166,Tennessee,South
+50784,Arkansas,South
+57206,Louisiana,South
+60096,Oklahoma,South
+67404,Texas,South
+70,821,Arizona,West
+84,954,Colorado,West
+76,918,Idaho,West
+64,999,Montana,West
+64,340,Nevada,West
+53,463,New Mexico,West
+87,649,Utah,West
+71,052,Wyoming,West
+81,133,Alaska,West
+81,575,California,West
+82,199,Hawaii,West
+81,855,Oregon,West
+87,648,Washington,West
+
