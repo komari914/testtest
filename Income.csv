@@ -36,17 +36,16 @@ Income,State,Region
 57206,Louisiana,South
 60096,Oklahoma,South
 67404,Texas,South
-70,821,Arizona,West
-84,954,Colorado,West
-76,918,Idaho,West
-64,999,Montana,West
-64,340,Nevada,West
-53,463,New Mexico,West
-87,649,Utah,West
-71,052,Wyoming,West
-81,133,Alaska,West
-81,575,California,West
-82,199,Hawaii,West
-81,855,Oregon,West
-87,648,Washington,West
-
+70821,Arizona,West
+84954,Colorado,West
+76918,Idaho,West
+64999,Montana,West
+64340,Nevada,West
+53463,New Mexico,West
+87649,Utah,West
+71052,Wyoming,West
+81133,Alaska,West
+81575,California,West
+82199,Hawaii,West
+81855,Oregon,West
+87648,Washington,West
